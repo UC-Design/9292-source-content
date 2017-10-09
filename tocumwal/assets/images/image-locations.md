@@ -1,14 +1,14 @@
 # Tocumwal Source Content
-The text comes from the ACT Heritage Library (Tocumwal Houses Archive)[https://www.library.act.gov.au/find/history/search/Manuscript_Collections/hmss_0074_tocumwal_houses_archive]
+The text comes from the ACT Heritage Library [Tocumwal Houses Archive] (https://www.library.act.gov.au/find/history/search/Manuscript_Collections/hmss_0074_tocumwal_houses_archive)
 
 This file provides an explanation of where the source content images came from.
 
 ## Image Locations
 
 There are three image folders:
-- misc: contains images from various sources including the ACT Heritage Library Images Online (ACT HL)[http://www.images.act.gov.au]
+- misc: contains images from various sources including the ACT Heritage Library Images Online [ACT HL](http://www.images.act.gov.au0
 - naa: these images are from the National Archives of Australia.
-- trove: contains images sourced through (Trove)[http://trove.nla.gov.au] and the National Library of Australia's collection
+- trove: contains images sourced through [Trove](http://trove.nla.gov.au) and the National Library of Australia's collection
 
 ## Precise Locations
 It is not always possible to match the image with an exact location, but here is some basic information (by folder). 
@@ -33,4 +33,4 @@ The number is the image number. I've included the reference to the original imag
 4. Aerial view of O'Connor. Tocumwal precinct visible in bottom left corner. 
 
 ## naa
-Images 1-25: assorted images from series A2617 / Section 195. To search go (here)[https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/SearchScreens/BasicSearch.aspx] and search for 'canberra housing + tocumwal'
+Images 1-25: assorted images from series A2617 / Section 195. To search go [here](https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/SearchScreens/BasicSearch.aspx] and search for 'canberra housing + tocumwal')
